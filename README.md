@@ -10,6 +10,12 @@ Installs the Ionic CLi
 
 Installs the server dependencies
 
+### Making `.env` file in Root folder
+
+Make a file called .env in root folder which will contain following lines <br/>
+`MONGODB_URI=<mongoDB uri>` <br/>
+`JWT_SECRET=<JWT secret key`
+
 ### `npm start`
 
 This will start the server
