@@ -14,7 +14,7 @@ Installs the server dependencies
 
 Make a file called .env in root folder which will contain following lines <br/>
 `MONGODB_URI=<mongoDB uri>` <br/>
-`JWT_SECRET=<JWT secret key`
+`JWT_SECRET=<JWT secret key>`
 
 ### `npm start`
 
